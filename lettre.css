@@ -1,0 +1,68 @@
+
+h2{
+    margin: 2rem 0 1rem 0;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+p {
+
+    text-align: justify;
+    text-indent: 2rem;
+    margin: 0;
+    
+}
+
+.container {
+    height: auto;
+    margin: auto;
+    width: 42rem;
+   
+    
+}
+
+span.container {
+    align-items: end;
+}
+
+span.secret {
+    text-align: center;
+
+}
+
+span.letter {
+    text-align: right;
+    
+}
+
+.container-span {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+}
+
+.date {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    
+}
+header {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    font-weight: bold;
+    font-style: italic;
+    margin: 1rem 0 1rem 0;
+}
+
+.titre4 {
+    margin: 2rem 0 1rem 0;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.alan {
+    font-weight: bold;
+    margin: 1rem 0 1rem 0;
+}
